@@ -19,8 +19,8 @@ Interested reader may refer to the following reference(s):
 2. Cognitive performance in healthy older adults relates to spontaneous switching between states of functional connectivity during rest
 
 # Requirements
-* Numpy
-* Scipy
+* numpy
+* scipy
 * sklearn 
-* Joblib
+* joblib
 * tqdm
