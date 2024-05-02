@@ -21,5 +21,5 @@ Interested reader may refer to the following reference(s):
 # Requirements
 * Numpy
 * Scipy
+* sklearn 
 * Joblib
-* multiprocessing
