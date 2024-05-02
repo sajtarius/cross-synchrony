@@ -1,6 +1,8 @@
 # Cross Synchrony Entropy (tentative name)
 NOTE: Examples are still in process. However, the code is available for user to test it out. Within the **synchro_code** folder, it contains the codes for **Cross Synchrony Entropy** and **Global Field Synchronization**
 
+**Contact**: choonghengjie@yahoo.com
+
 Alternative method to quantify the synchrony of the system through information geometry.
 
 Here, I would like to show an alternative method to quantify the synchrony of a system through signals known as **Cross Synchrony Entropy (CSE)**. In general, the synchrony of a system can be quantified by **Global Field Synchronization (GFS)** which able to quantify the synchrony of the system at a specific frequency. Hence, it may not work well when utilizing it to a range of frequency (e.g. EEG alpha bands (8-16Hz)). This is because one needs average the GFS after evaluate the GFS for all the frequencies within the frequency band which the average value would vary depending on the interested interval when evaluating GFS. Higher frequency interval (e.g. 1Hz) would not able to get a proper GFS of the interested frequency range. On the other hand, lower frequency intervel (e.g. 0.1Hz) would subsequently increase the computation time. 
