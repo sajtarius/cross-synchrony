@@ -10,6 +10,10 @@ To overcome the state problem, here I evaluate the synchrony through the phase d
 NOTE: the written function also includes other metric like **hellinger distance** and **Jensen Shannon divergence** alongside **wasserstein distance**. 
 NOTE: Shannon entropy is not used because same value would be expected for system that **constant out of phase** and **constant in phase**. 
 
+Interested reader may refer to the following reference(s):
+1. Decreased functional connectivity of EEG theta-frequency activity in first-episode, neuroleptic-naive patients with schizophrenia: preliminary results
+2. Cognitive performance in healthy older adults relates to spontaneous switching between states of functional connectivity during rest
+
 # Requirements
 * Numpy
 * Scipy
