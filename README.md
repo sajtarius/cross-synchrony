@@ -1,5 +1,5 @@
 # Cross Synchrony Entropy (tentative name)
-NOTE: Examples are still in process. However, the code is available for user to test it out. Within the synchro_code, it contains the codes for **Cross Synchrony Entropy** and **Global Field Synchronization**
+NOTE: Examples are still in process. However, the code is available for user to test it out. Within the **synchro_code** folder, it contains the codes for **Cross Synchrony Entropy** and **Global Field Synchronization**
 
 Alternative method to quantify the synchrony of the system through information geometry.
 
