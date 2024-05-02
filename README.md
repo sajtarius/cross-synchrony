@@ -23,3 +23,4 @@ Interested reader may refer to the following reference(s):
 * Scipy
 * sklearn 
 * Joblib
+* tqdm
