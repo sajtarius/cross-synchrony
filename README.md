@@ -22,3 +22,4 @@ Interested reader may refer to the following reference(s):
 * Numpy
 * Scipy
 * Joblib
+* multiprocessing
